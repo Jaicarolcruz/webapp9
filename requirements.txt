@@ -1,0 +1,8 @@
+# Date: 11-14-2022
+
+# Minimum requirements for a plotly dash application
+pywebio==1.6.0
+
+
+# Required for deployment on Heroku
+gunicorn==20.1.0
